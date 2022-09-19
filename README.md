@@ -7,7 +7,7 @@ It is composed by 4 containers:
 - `nginx`, acting as the webserver.
 - `php`, the PHP-FPM container with the 8.1 version of PHP.
 - `db` which is the MySQL database container with a **MySQL 8.0** image.
-- `app` which is the ech-service symfony app to be setup
+- `app` which is the echo-service symfony app to be setup
 
 Build the Docker images:
 
