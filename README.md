@@ -1,6 +1,6 @@
 ## Description
 
-This is a complete stack for running Symfony into a Docker container using docker-compose tool for ech-service app to resident automatically.
+This is a complete stack for running Symfony into a Docker container using docker-compose tool for echo-service app to resident automatically.
 
 It is composed by 4 containers:
 
